@@ -7,7 +7,8 @@ Project Overview:
 This project is an Open Source Audit of MySQL. It explores the origin, licensing model, Linux integration, and ecosystem of MySQL. The project also includes practical implementation through Linux shell scripts.
 
 Objectives:
-Understand open-source philosophy and ethics
-Analyze MySQL’s GPL licensing model
-Study MySQL’s role in Linux systems
-Perform system-level tasks using shell scripting
+1. Understand open-source philosophy and ethics.
+2. Analyze MySQL’s GPL licensing model.
+3. Study MySQL’s role in Linux systems.
+4. Perform system-level tasks using shell scripting.
+
