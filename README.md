@@ -110,7 +110,7 @@ chmod +x manifesto_generator.sh
 3. MySQL installed
 4. Basic terminal knowledge
 
-### How to Run the Project:
+## How to Run the Project:
 **1. Clone the repository:**
 ```bash
 git clone <your-repo-link>
