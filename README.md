@@ -4,6 +4,7 @@
 - **Name:** Muskan
 - **Roll Number:** 24BAI10927
 - **Course:** Open Source Software (OSS)
+- **Choice:** MySQL
 
 ## Project Overview
 This project is an Open Source Audit of MySQL. It analyzes its origin, licensing (GPL), Linux integration, and ecosystem. The project also includes 5 shell scripts demonstrating practical Linux and open-source concepts.
