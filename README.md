@@ -20,14 +20,17 @@ Purpose:
 Displays important system information like kernel version, logged-in user, uptime, OS distribution, and current date/time.
 
 Concepts Used:
-Variables
-Command substitution ($( ))
-echo for output formatting
+1. Variables
+2. Command substitution ($( ))
+3. echo for output formatting
 
 How it works:
 The script collects system data using commands like uname, whoami, and uptime, stores them in variables, and prints a formatted report.
 
 How to run:
+
 chmod +x system_identity.sh
 ./system_identity.sh
+
+Script 2: FOSS Package Inspector (package_inspector.sh)
 
