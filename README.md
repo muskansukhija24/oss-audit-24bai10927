@@ -104,7 +104,7 @@ chmod +x manifesto_generator.sh
 ./manifesto_generator.sh
 ```
 
-### Requirements:
+## Requirements
 1. Linux Operating System (Ubuntu/Fedora)
 2. Bash Shell
 3. MySQL installed
@@ -125,14 +125,14 @@ chmod +x *.sh
 ./script_name.sh
 ```
 
-### Project Components:
+## Project Components
 **✔️ 5 Shell Scripts (.sh files)**
 **✔️ Project Report (PDF)**
 **✔️ README Documentation**
 
-### Conclusion:
+## Conclusion
 This project provides a deeper understanding of open-source software through MySQL. It also enhances practical knowledge of Linux commands and shell scripting, demonstrating how open-source tools are used in real-world systems.
 
-### Note:
+## Note
 This repository is created for academic purposes as part of the OSS Capstone Project.
    
