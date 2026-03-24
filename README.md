@@ -126,9 +126,9 @@ chmod +x *.sh
 ```
 
 ## Project Components
-###1. 5 Shell Scripts (.sh files)
-###2. Project Report (PDF)
-###3. README Documentation
+**1. 5 Shell Scripts (.sh files)**
+**2. Project Report (PDF)**
+**3. README Documentation**
 
 ## Conclusion
 This project provides a deeper understanding of open-source software through MySQL. It also enhances practical knowledge of Linux commands and shell scripting, demonstrating how open-source tools are used in real-world systems.
