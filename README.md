@@ -104,11 +104,11 @@ chmod +x manifesto_generator.sh
 ./manifesto_generator.sh
 ```
 
-## Requirements
-1. Linux Operating System (Ubuntu/Fedora)
-2. Bash Shell
-3. MySQL installed
-4. Basic terminal knowledge
+##  **Dependencies**
+- Linux Operating System  
+- Bash Shell  
+- MySQL Server installed  
+- Package manager (apt or rpm)  
 
 ## How to Run the Project
 **1. Clone the repository:**
