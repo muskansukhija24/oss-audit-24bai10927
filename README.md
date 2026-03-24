@@ -14,7 +14,7 @@ MySQL, as a widely-used open-source relational database management system, serve
 ## Table of Contents
 1. [Objectives](#objectives)
 2. [Shell Scripts](#shell-scripts)
-3. [Requirements](#requirements)
+3. [Dependencies](#dependencies)
 4. [How to Run the Project](#how-to-run-the-project)
 5. [Project Components](#project-components)
 6. [Conclusion](#conclusion)
@@ -105,7 +105,7 @@ chmod +x manifesto_generator.sh
 ./manifesto_generator.sh
 ```
 
-##  **Dependencies**
+## Dependencies
 - Linux Operating System  
 - Bash Shell  
 - MySQL Server installed  
