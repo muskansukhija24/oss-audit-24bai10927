@@ -1,7 +1,7 @@
 # Open Source Audit Project – MySQL
 
 ## Student Details
-- **Name:** Muskan
+- **Name:** Muskan Sukhija 
 - **Roll Number:** 24BAI10927
 - **Course:** Open Source Software (OSS)
 - **Software:** MySQL
